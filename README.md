@@ -1,4 +1,4 @@
-# Name of the project
+# geth_privkey_extract
 > Retrieves your private key from your Ethereum geth keystore file. Enabling to use your Ethereum wallet on any computer or device just with authorizing it with the private key that you can get for your personal view with this small offline-program running on your computer.
 
 This program allows to extract your private key form the Ethereum geth keystore file. For this you just need your geth password and the location of the file. There will be no transfer of this details or file from and to the internet because it is all running on your windows computer.
